@@ -1,4 +1,5 @@
 // server.js
+//comentario de prueba para verlo en el pc sobremesa
 
 	// set up ========================
 	var express  = require('express');
